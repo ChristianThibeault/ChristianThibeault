@@ -16,7 +16,7 @@ Lately, I’ve been shifting my focus to backend and systems engineering. I buil
   A command-line tool that wraps `strace` to provide human-readable insights into a program's execution. It summarizes file access, memory usage, and network activity, with output formats like summaries, verbose reports, JSON, and beautiful tree visualizations.
   
 - [`Cadena`](https://github.com/Cadena-Platform/Cadena)  
-  A web app that helps students in Quebec buy and sell used books. I worked mainly on the backend (Django + PostgreSQL + Azure).
+  A web app that helps students in Quebec buy and sell used books (see: [Cadena.ca](https://www.cadena.ca)). I worked mainly on the backend (Django + PostgreSQL + Azure).
 
 
 ---
