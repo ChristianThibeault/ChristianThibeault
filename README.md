@@ -2,7 +2,7 @@
 
 I'm a physicist currently finishing a PhD in solar astrophysics, where I build simulations of the Sun’s magnetic field (and try not to crash the cluster).
 
-Lately, I’ve been shifting my focus to backend software engineering. I build clean systems, clever tooling, and CLI-first apps (in Go and Python) to make working with computers a little bit more fun.
+Lately, I’ve been shifting my focus to backend software engineering. I build clean systems, clever tooling, and CLI-first apps (in Python and Go) to make working with computers a little bit more fun.
 
 
 ---
@@ -23,7 +23,7 @@ Lately, I’ve been shifting my focus to backend software engineering. I build c
 
 ### ⚙️ Tools I like
 
-- Languages: Go, Python, Bash, Julia  
+- Languages: Python, Go, Bash, Julia  
 - Workflow: Linux, `ssh`, `tmux`, `Snakemake`, `GNU Parallel`  
 - Stack: Django, PostgreSQL, Azure
 
